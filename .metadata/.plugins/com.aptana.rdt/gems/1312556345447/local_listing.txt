@@ -1,0 +1,533 @@
+abstract (1.0.0)
+    Author: makoto kuwata
+    Homepage: http://rubyforge.org/projects/abstract
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    a library which enable you to define abstract method in Ruby
+
+actionmailer (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/actionmailer
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Email composition, delivery, and receiving framework (part of
+    Rails).
+
+actionpack (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/actionpack
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Web-flow and rendering framework putting the VC in MVC (part of
+    Rails).
+
+activemodel (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/activemodel
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A toolkit for building modeling frameworks (part of Rails).
+
+activerecord (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/activerecord
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Object-relational mapper framework (part of Rails).
+
+activeresource (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/activeresource
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    REST modeling framework (part of Rails).
+
+activesupport (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/activesupport
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A toolkit of support libraries and Ruby core extensions extracted
+    from the Rails framework.
+
+annotate (2.4.0)
+    Authors: Cuong Tran, Alex Chaffee, Marcos Piccinini
+    Rubyforge: http://rubyforge.org/projects/annotate
+    Homepage: http://github.com/ctran/annotate
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Annotates Rails Models, routes, fixtures, and others based on the
+    database schema.
+
+arel (2.0.9)
+    Authors: Aaron Patterson, Bryan Halmkamp, Emilio Tagua, Nick Kallen
+    Rubyforge: http://rubyforge.org/projects/arel
+    Homepage: http://github.com/rails/arel
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Arel is a Relational Algebra for Ruby
+
+autotest (4.4.6)
+    Author: Ryan Davis
+    Rubyforge: http://rubyforge.org/projects/seattlerb
+    Homepage: http://www.zenspider.com/ZSS/Products/ZenTest/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    This is a stub gem to fix the confusion caused by autotest being
+    part of the ZenTest suite.
+
+autotest-rails-pure (4.1.2)
+    Author: Ryan Davis
+    Homepage: http://github.com/grosser/autotest-rails
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Autotest for Test::Unit on Rails, including plugins for migrations
+    and fixtures.
+
+builder (2.1.2)
+    Author: Jim Weirich
+    Homepage: http://onestepback.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Builders for MarkUp.
+
+bundler (1.0.12)
+    Authors: André Arko, Terence Lee, Carl Lerche, Yehuda Katz
+    Rubyforge: http://rubyforge.org/projects/bundler
+    Homepage: http://gembundler.com
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    The best way to manage your application's dependencies
+
+configuration (1.2.0)
+    Author: Ara T. Howard
+    Rubyforge: http://rubyforge.org/projects/codeforpeople
+    Homepage: http://github.com/ahoward/configuration/tree/master
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    configuration
+
+diff-lcs (1.1.2)
+    Author: 
+    Rubyforge: http://rubyforge.org/projects/ruwiki
+    Homepage: http://rubyforge.org/projects/ruwiki/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Provides a list of changes that represent the difference between two
+    sequenced collections.
+
+erubis (2.6.6)
+    Author: makoto kuwata
+    Rubyforge: http://rubyforge.org/projects/erubis
+    Homepage: http://www.kuwata-lab.com/erubis/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    a fast and extensible eRuby implementation which supports
+    multi-language
+
+factory_girl (1.3.3)
+    Author: Joe Ferris
+    Homepage: http://thoughtbot.com/projects/factory_girl
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    factory_girl provides a framework and DSL for defining and using
+    model instance factories.
+
+factory_girl_rails (1.0)
+    Author: Joe Ferris
+    Homepage: http://thoughtbot.com/projects/factory_girl_rails
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    factory_girl_rails provides integration between factory_girl and
+    rails 3
+
+faker (0.3.1)
+    Author: Benjamin Curtis
+    Rubyforge: http://rubyforge.org/projects/faker
+    Homepage: http://faker.rubyforge.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A port of Perl's Data::Faker - Generates fake names, phone numbers,
+    etc.
+
+gravatar_image_tag (1.0.0.pre2)
+    Author: Michael Deering
+    Homepage: http://github.com/mdeering/gravatar_image_tag
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A configurable and documented Rails view helper for adding gravatars
+    into your Rails application.
+
+heroku (1.20.1)
+    Author: Heroku
+    Homepage: http://heroku.com/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Client library and CLI to deploy Rails apps on Heroku.
+
+i18n (0.5.0)
+    Authors: Sven Fuchs, Joshua Harvey, Matt Aimonetti, Stephan Soller,
+    Saimon Moore
+    Rubyforge: http://rubyforge.org/projects/[none]
+    Homepage: http://github.com/svenfuchs/i18n
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    New wave Internationalization support for Ruby
+
+launchy (0.3.7)
+    Author: Jeremy Hinegardner
+    Rubyforge: http://rubyforge.org/projects/copiousfreetime
+    Homepage: http://copiousfreetime.rubyforge.org/launchy/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Launchy is helper class for launching cross-platform applications in
+    a fire and forget manner
+
+mail (2.2.17, 2.2.16, 2.2.15)
+    Author: Mikel Lindsaar
+    Homepage: http://github.com/mikel/mail
+    Installed at (2.2.17): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (2.2.16): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (2.2.15): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Mail provides a nice Ruby DSL for making, sending and reading
+    emails.
+
+mime-types (1.16)
+    Author: Austin Ziegler
+    Rubyforge: http://rubyforge.org/projects/mime-types
+    Homepage: http://mime-types.rubyforge.org/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Manages a MIME Content-Type database that will return the
+    Content-Type for a given filename.
+
+nokogiri (1.4.4.1)
+    Platform: x86-mingw32
+    Authors: Aaron Patterson, Mike Dalessio
+    Rubyforge: http://rubyforge.org/projects/nokogiri
+    Homepage: http://nokogiri.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Nokogiri (?) is an HTML, XML, SAX, and Reader parser
+
+open4 (1.0.1)
+    Author: Ara T. Howard
+    Rubyforge: http://rubyforge.org/projects/codeforpeople
+    Homepage: http://github.com/ahoward/open4/tree/master
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    open4
+
+pg (0.10.1)
+    Authors: Jeff Davis, Michael Granger
+    Homepage: http://bitbucket.org/ged/ruby-pg/
+    Licenses: Ruby, GPL, BSD
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A Ruby interface to the PostgreSQL RDBMS
+
+Platform (0.4.0)
+    Author: Matt Mower
+    Homepage: http://rubyforge.org/projects/platform/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Hopefully robust platform sensing
+
+polyglot (0.3.1)
+    Author: Clifford Heath
+    Rubyforge: http://rubyforge.org/projects/polyglot
+    Homepage: http://polyglot.rubyforge.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Allows custom language loaders for specified file extensions to be
+    hooked into require
+
+POpen4 (0.1.4)
+    Author: John-Mason P. Shackelford
+    Homepage: http://github.com/pka/popen4
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Open4 cross-platform
+
+rack (1.2.2)
+    Author: Christian Neukirchen
+    Rubyforge: http://rubyforge.org/projects/rack
+    Homepage: http://rack.rubyforge.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    a modular Ruby webserver interface
+
+rack-mount (0.6.14)
+    Author: Joshua Peek
+    Rubyforge: http://rubyforge.org/projects/rack-mount
+    Homepage: https://github.com/josh/rack-mount
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Stackable dynamic tree based Rack router
+
+rack-test (0.5.7)
+    Author: Bryan Helmkamp
+    Rubyforge: http://rubyforge.org/projects/rack-test
+    Homepage: http://github.com/brynary/rack-test
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Simple testing API built on Rack
+
+rails (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/rails
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Full-stack web application framework.
+
+railties (3.0.7, 3.0.6)
+    Author: David Heinemeier Hansson
+    Rubyforge: http://rubyforge.org/projects/rails
+    Homepage: http://www.rubyonrails.org
+    Installed at (3.0.7): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (3.0.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Tools for creating, working with, and running Rails applications.
+
+rake (0.8.7)
+    Author: Jim Weirich
+    Rubyforge: http://rubyforge.org/projects/rake
+    Homepage: http://rake.rubyforge.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Ruby based make-like utility.
+
+rb-readline (0.4.0)
+    Authors: Park Heesob, Daniel Berger, Luis Lavena
+    Homepage: http://github.com/luislavena/rb-readline
+    License: BSD
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Pure-Ruby Readline Implementation
+
+rest-client (1.6.1)
+    Authors: Adam Wiggins, Julien Kirch
+    Rubyforge: http://rubyforge.org/projects/rest-client
+    Homepage: http://github.com/archiloque/rest-client
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Simple REST client for Ruby, inspired by microframework syntax for
+    specifying actions.
+
+rspec (2.6.0, 2.5.0)
+    Authors: Steven Baker, David Chelimsky
+    Rubyforge: http://rubyforge.org/projects/rspec
+    Homepage: http://github.com/rspec
+    Installed at (2.6.0): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (2.5.0): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    rspec-2.6.0
+
+rspec-core (2.6.3, 2.5.1)
+    Authors: Chad Humphries, David Chelimsky
+    Rubyforge: http://rubyforge.org/projects/rspec
+    Homepage: http://github.com/rspec
+    Installed at (2.6.3): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (2.5.1): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    rspec-core-2.6.3
+
+rspec-expectations (2.6.0, 2.5.0)
+    Authors: David Chelimsky, Chad Humphries
+    Rubyforge: http://rubyforge.org/projects/rspec
+    Homepage: http://github.com/rspec/rspec-expectations
+    Installed at (2.6.0): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (2.5.0): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    rspec-expectations-2.6.0
+
+rspec-mocks (2.6.0, 2.5.0)
+    Authors: David Chelimsky, Chad Humphries
+    Rubyforge: http://rubyforge.org/projects/rspec
+    Homepage: http://github.com/rspec/rspec-mocks
+    Installed at (2.6.0): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (2.5.0): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    rspec-mocks-2.6.0
+
+rspec-rails (2.6.1, 2.5.0)
+    Author: David Chelimsky
+    Rubyforge: http://rubyforge.org/projects/rspec
+    Homepage: http://github.com/rspec/rspec-rails
+    Installed at (2.6.1): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (2.5.0): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    rspec-rails-2.6.1
+
+rubygems-update (1.8.5)
+    Authors: Jim Weirich, Chad Fowler, Eric Hodel
+    Rubyforge: http://rubyforge.org/projects/rubygems
+    Homepage: http://rubygems.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    RubyGems is a package management framework for Ruby
+
+rubyzip2 (2.0.1)
+    Authors: Postmodern, Thomas Sondergaard
+    Homepage: http://github.com/postmodern/rubyzip2
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    rubyzip2 is a Ruby library for reading and writing Zip files
+
+sequel (3.20.0)
+    Author: Jeremy Evans
+    Rubyforge: http://rubyforge.org/projects/sequel
+    Homepage: http://sequel.rubyforge.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    The Database Toolkit for Ruby
+
+sinatra (1.0)
+    Authors: Blake Mizerany, Ryan Tomayko, Simon Rozet
+    Rubyforge: http://rubyforge.org/projects/sinatra
+    Homepage: http://sinatra.rubyforge.org
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Classy web-development dressed in a DSL
+
+spork (0.9.0.rc5)
+    Authors: Tim Harper, Donald Parish
+    Rubyforge: http://rubyforge.org/projects/spork
+    Homepage: http://github.com/timcharper/spork
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    spork
+
+sqlite3 (1.3.3)
+    Platform: x86-mingw32
+    Authors: Jamis Buck, Luis Lavena, Aaron Patterson
+    Rubyforge: http://rubyforge.org/projects/sqlite3
+    Homepage: http://github.com/luislavena/sqlite3-ruby
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    This module allows Ruby programs to interface with the SQLite3
+    database engine (http://www.sqlite.org)
+
+sqlite3-ruby (1.3.3)
+    Authors: Jamis Buck, Luis Lavena, Aaron Patterson
+    Rubyforge: http://rubyforge.org/projects/sqlite3-ruby
+    Homepage: http://github.com/luislavena/sqlite3-ruby
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    This module allows Ruby programs to interface with the SQLite3
+    database engine (http://www.sqlite.org)
+
+taps (0.3.23)
+    Author: Ricardo Chimal, Jr.
+    Homepage: http://github.com/ricardochimal/taps
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    simple database import/export app
+
+thor (0.14.6)
+    Authors: Yehuda Katz, José Valim
+    Homepage: http://github.com/wycats/thor
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A scripting framework that replaces rake, sake and rubigen
+
+treetop (1.4.9)
+    Author: Nathan Sobo
+    Homepage: http://functionalform.blogspot.com
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A Ruby-based text parsing and interpretation DSL
+
+tzinfo (0.3.26)
+    Author: Philip Ross
+    Rubyforge: http://rubyforge.org/projects/tzinfo
+    Homepage: http://tzinfo.rubyforge.org/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Daylight-savings aware timezone library
+
+webrat (0.7.1)
+    Author: Bryan Helmkamp
+    Rubyforge: http://rubyforge.org/projects/webrat
+    Homepage: http://github.com/brynary/webrat
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Ruby Acceptance Testing for Web applications
+
+will_paginate (3.0.pre2)
+    Author: Mislav Marohniæ
+    Homepage: http://github.com/mislav/will_paginate/wikis
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Adaptive pagination plugin for web frameworks and other applications
+
+win32-api (1.4.8)
+    Platform: x86-mingw32
+    Authors: Daniel J. Berger, Park Heesob
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    License: Artistic 2.0
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    A superior replacement for Win32API
+
+win32-open3 (0.3.2)
+    Platform: x86-mingw32
+    Authors: Park Heesob, Daniel J. Berger
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    License: Artistic 2.0
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Provides an Open3.popen3 implementation for MS Windows
+
+win32-process (0.6.5)
+    Authors: Daniel Berger, Park Heesob
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    License: Artistic 2.0
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Adds and redefines several Process methods for MS Windows
+
+windows-api (0.4.0)
+    Author: Daniel J. Berger
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    License: Artistic 2.0
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    An easier way to create methods using Win32::API
+
+windows-pr (1.2.0)
+    Authors: Daniel J. Berger, Park Heesob
+    Rubyforge: http://rubyforge.org/projects/win32utils
+    Homepage: http://www.rubyforge.org/projects/win32utils
+    License: Artistic 2.0
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Windows functions and constants bundled via Win32::API
+
+ZenTest (4.5.0)
+    Authors: Ryan Davis, Eric Hodel
+    Rubyforge: http://rubyforge.org/projects/zentest
+    Homepage: http://www.zenspider.com/ZSS/Products/ZenTest/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    ZenTest provides 4 different tools: zentest, unit_diff, autotest,
+    and multiruby

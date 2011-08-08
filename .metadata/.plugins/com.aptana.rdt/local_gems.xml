@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gems>
+	<gem>
+		<name>treetop</name>
+		<version>1.4.9</version>
+		<description>A Ruby-based text parsing and interpretation DSL</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>launchy</name>
+		<version>0.3.7</version>
+		<description>Launchy is helper class for launching cross-platform applications in a fire and forget manner</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rubyzip2</name>
+		<version>2.0.1</version>
+		<description>rubyzip2 is a Ruby library for reading and writing Zip files</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rack</name>
+		<version>1.2.2</version>
+		<description>a modular Ruby webserver interface</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>win32-process</name>
+		<version>0.6.5</version>
+		<description>Adds and redefines several Process methods for MS Windows</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>sequel</name>
+		<version>3.20.0</version>
+		<description>The Database Toolkit for Ruby</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>bundler</name>
+		<version>1.0.12</version>
+		<description>The best way to manage your application&apos;s dependencies</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-mocks</name>
+		<version>2.5.0</version>
+		<description>rspec-mocks-2.6.0</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activemodel</name>
+		<version>3.0.6</version>
+		<description>A toolkit for building modeling frameworks (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>will_paginate</name>
+		<version>3.0.pre2</version>
+		<description>Adaptive pagination plugin for web frameworks and other applications</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>annotate</name>
+		<version>2.4.0</version>
+		<description>Annotates Rails Models, routes, fixtures, and others based on the database schema.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activemodel</name>
+		<version>3.0.7</version>
+		<description>A toolkit for building modeling frameworks (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rack-test</name>
+		<version>0.5.7</version>
+		<description>Simple testing API built on Rack</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>windows-pr</name>
+		<version>1.2.0</version>
+		<description>Windows functions and constants bundled via Win32::API</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>webrat</name>
+		<version>0.7.1</version>
+		<description>Ruby Acceptance Testing for Web applications</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>factory_girl_rails</name>
+		<version>1.0</version>
+		<description>factory_girl_rails provides integration between factory_girl and rails 3</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>sqlite3</name>
+		<version>1.3.3</version>
+		<description>This module allows Ruby programs to interface with the SQLite3 database engine (http://www.sqlite.org)</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>sinatra</name>
+		<version>1.0</version>
+		<description>Classy web-development dressed in a DSL</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>nokogiri</name>
+		<version>1.4.4.1</version>
+		<description>Nokogiri (?) is an HTML, XML, SAX, and Reader parser</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>autotest-rails-pure</name>
+		<version>4.1.2</version>
+		<description>Autotest for Test::Unit on Rails, including plugins for migrations and fixtures.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>diff-lcs</name>
+		<version>1.1.2</version>
+		<description>Provides a list of changes that represent the difference between two sequenced collections.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>polyglot</name>
+		<version>0.3.1</version>
+		<description>Allows custom language loaders for specified file extensions to be hooked into require</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>win32-api</name>
+		<version>1.4.8</version>
+		<description>A superior replacement for Win32API</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-core</name>
+		<version>2.5.1</version>
+		<description>rspec-core-2.6.3</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>actionpack</name>
+		<version>3.0.6</version>
+		<description>Web-flow and rendering framework putting the VC in MVC (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>mail</name>
+		<version>2.2.15</version>
+		<description>Mail provides a nice Ruby DSL for making, sending and reading emails.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>mail</name>
+		<version>2.2.16</version>
+		<description>Mail provides a nice Ruby DSL for making, sending and reading emails.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>faker</name>
+		<version>0.3.1</version>
+		<description>A port of Perl&apos;s Data::Faker - Generates fake names, phone numbers, etc.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>mail</name>
+		<version>2.2.17</version>
+		<description>Mail provides a nice Ruby DSL for making, sending and reading emails.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>actionpack</name>
+		<version>3.0.7</version>
+		<description>Web-flow and rendering framework putting the VC in MVC (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>Platform</name>
+		<version>0.4.0</version>
+		<description>Hopefully robust platform sensing</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>POpen4</name>
+		<version>0.1.4</version>
+		<description>Open4 cross-platform</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activerecord</name>
+		<version>3.0.7</version>
+		<description>Object-relational mapper framework (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>mime-types</name>
+		<version>1.16</version>
+		<description>Manages a MIME Content-Type database that will return the Content-Type for a given filename.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>thor</name>
+		<version>0.14.6</version>
+		<description>A scripting framework that replaces rake, sake and rubigen</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>taps</name>
+		<version>0.3.23</version>
+		<description>simple database import/export app</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activerecord</name>
+		<version>3.0.6</version>
+		<description>Object-relational mapper framework (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>sqlite3-ruby</name>
+		<version>1.3.3</version>
+		<description>This module allows Ruby programs to interface with the SQLite3 database engine (http://www.sqlite.org)</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>actionmailer</name>
+		<version>3.0.7</version>
+		<description>Email composition, delivery, and receiving framework (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rack-mount</name>
+		<version>0.6.14</version>
+		<description>Stackable dynamic tree based Rack router</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>autotest</name>
+		<version>4.4.6</version>
+		<description>This is a stub gem to fix the confusion caused by autotest being part of the ZenTest suite.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>actionmailer</name>
+		<version>3.0.6</version>
+		<description>Email composition, delivery, and receiving framework (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>i18n</name>
+		<version>0.5.0</version>
+		<description>New wave Internationalization support for Ruby</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>win32-open3</name>
+		<version>0.3.2</version>
+		<description>Provides an Open3.popen3 implementation for MS Windows</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>tzinfo</name>
+		<version>0.3.26</version>
+		<description>Daylight-savings aware timezone library</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rails</name>
+		<version>3.0.6</version>
+		<description>Full-stack web application framework.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rails</name>
+		<version>3.0.7</version>
+		<description>Full-stack web application framework.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>configuration</name>
+		<version>1.2.0</version>
+		<description>configuration</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>builder</name>
+		<version>2.1.2</version>
+		<description>Builders for MarkUp.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>erubis</name>
+		<version>2.6.6</version>
+		<description>a fast and extensible eRuby implementation which supports multi-language</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>heroku</name>
+		<version>1.20.1</version>
+		<description>Client library and CLI to deploy Rails apps on Heroku.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rb-readline</name>
+		<version>0.4.0</version>
+		<description>Pure-Ruby Readline Implementation</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rake</name>
+		<version>0.8.7</version>
+		<description>Ruby based make-like utility.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-expectations</name>
+		<version>2.6.0</version>
+		<description>rspec-expectations-2.6.0</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>windows-api</name>
+		<version>0.4.0</version>
+		<description>An easier way to create methods using Win32::API</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec</name>
+		<version>2.6.0</version>
+		<description>rspec-2.6.0</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activesupport</name>
+		<version>3.0.6</version>
+		<description>A toolkit of support libraries and Ruby core extensions extracted from the Rails framework.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-core</name>
+		<version>2.6.3</version>
+		<description>rspec-core-2.6.3</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activesupport</name>
+		<version>3.0.7</version>
+		<description>A toolkit of support libraries and Ruby core extensions extracted from the Rails framework.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>railties</name>
+		<version>3.0.6</version>
+		<description>Tools for creating, working with, and running Rails applications.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>railties</name>
+		<version>3.0.7</version>
+		<description>Tools for creating, working with, and running Rails applications.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>arel</name>
+		<version>2.0.9</version>
+		<description>Arel is a Relational Algebra for Ruby</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>ZenTest</name>
+		<version>4.5.0</version>
+		<description>ZenTest provides 4 different tools: zentest, unit_diff, autotest, and multiruby</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-rails</name>
+		<version>2.5.0</version>
+		<description>rspec-rails-2.6.1</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-rails</name>
+		<version>2.6.1</version>
+		<description>rspec-rails-2.6.1</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-expectations</name>
+		<version>2.5.0</version>
+		<description>rspec-expectations-2.6.0</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>pg</name>
+		<version>0.10.1</version>
+		<description>A Ruby interface to the PostgreSQL RDBMS</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>gravatar_image_tag</name>
+		<version>1.0.0.pre2</version>
+		<description>A configurable and documented Rails view helper for adding gravatars into your Rails application.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activeresource</name>
+		<version>3.0.7</version>
+		<description>REST modeling framework (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>activeresource</name>
+		<version>3.0.6</version>
+		<description>REST modeling framework (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>open4</name>
+		<version>1.0.1</version>
+		<description>open4</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec-mocks</name>
+		<version>2.6.0</version>
+		<description>rspec-mocks-2.6.0</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>abstract</name>
+		<version>1.0.0</version>
+		<description>a library which enable you to define abstract method in Ruby</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rest-client</name>
+		<version>1.6.1</version>
+		<description>Simple REST client for Ruby, inspired by microframework syntax for specifying actions.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>factory_girl</name>
+		<version>1.3.3</version>
+		<description>factory_girl provides a framework and DSL for defining and using model instance factories.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rspec</name>
+		<version>2.5.0</version>
+		<description>rspec-2.6.0</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rubygems-update</name>
+		<version>1.8.5</version>
+		<description>RubyGems is a package management framework for Ruby</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>spork</name>
+		<version>0.9.0.rc5</version>
+		<description>spork</description>
+		<platform>ruby</platform>
+	</gem>
+</gems>

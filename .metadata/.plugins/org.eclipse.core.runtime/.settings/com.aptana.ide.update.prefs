@@ -1,0 +1,5 @@
+#Fri Aug 05 16:59:19 CEST 2011
+eclipse.preferences.version=1
+com.aptana.ide.update.LOCAL_PLUGIN_LISTING_URL=bundleentry\://75.fwk23255990/plugins_radrails_2.0.xml
+com.aptana.ide.update.REMOTE_PLUGIN_LISTING_URL=http\://download.aptana.com/tools/radrails/plugin/plugins_radrails_2.0.xml
+com.aptana.ide.update.RELEASE_MESSAGE_URL_PREFIX=http\://www.radrails.org/tools/radrails/release-message/

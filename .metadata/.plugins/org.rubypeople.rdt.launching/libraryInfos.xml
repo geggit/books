@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\RailsInstaller\Ruby1.8.7" version="1.8.7" vmTypeId="org.rubypeople.rdt.launching.StandardVMType">
+<bootpath>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/site_ruby/1.8"/>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/site_ruby/1.8/i386-msvcrt"/>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/site_ruby"/>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/vendor_ruby/1.8"/>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/vendor_ruby/1.8/i386-msvcrt"/>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/vendor_ruby"/>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/1.8"/>
+<entry path="C:/RailsInstaller/Ruby1.8.7/lib/ruby/1.8/i386-mingw32"/>
+</bootpath>
+</libraryInfo>
+</libraryInfos>
