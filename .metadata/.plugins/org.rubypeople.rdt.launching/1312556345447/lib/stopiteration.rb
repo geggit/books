@@ -1,0 +1,3 @@
+class StopIteration < IndexError
+
+end

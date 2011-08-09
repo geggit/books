@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="15" version="2.0">
+<workbench progressCount="23" version="2.0">
 <workbenchAdvisor/>
 <window height="738" width="1024" x="0" y="0">
 <fastViewData fastViewLocation="1024"/>
@@ -31,12 +31,16 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="com.aptana.ide.editors.CSSEditor" name="scaffold.css" partName="scaffold.css" title="scaffold.css" tooltip="C:\RAILS_PROJECTS\depot\public\stylesheets\scaffold.css" workbook="DefaultEditorWorkbook">
+<editor id="com.aptana.ide.editors.CSSEditor" name="scaffold.css" partName="scaffold.css" title="scaffold.css" tooltip="C:\RAILS_PROJECTS\depot\public\stylesheets\scaffold.css" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/RAILS_PROJECTS/depot/public/stylesheets/scaffold.css"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.ide.editors.CSSEditor" name="depot.css" partName="depot.css" title="depot.css" tooltip="D:\liba\kode\AgileWebDevRails4thedition\code\depot_e\public\stylesheets\depot.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_e/public/stylesheets/depot.css"/>
 </editor>
 </editors>
 <views>
@@ -179,8 +183,10 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" uri="file:/C:/RAILS_PROJECTS/depot/public/stylesheets/scaffold.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_e/public/stylesheets/depot.css"/>
 </editors>
-<item active="true" historyLabel="scaffold.css" index="0"/>
+<item historyLabel="scaffold.css" index="0"/>
+<item active="true" historyLabel="depot.css" index="1"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -199,6 +205,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" name="depot.css" tooltip="D:\liba\kode\AgileWebDevRails4thedition\code\depot_e\public\stylesheets\depot.css">
+<persistable uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_e/public/stylesheets/depot.css"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" name="scaffold.css" tooltip="C:\RAILS_PROJECTS\depot\public\stylesheets\scaffold.css">
 <persistable uri="file:/C:/RAILS_PROJECTS/depot/public/stylesheets/scaffold.css"/>
 </file>
