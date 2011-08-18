@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+#START_HIGHLIGHT
+  name: Alan Ant
+  address: MyText
+  email: alanant@example.org
+  pay_type: Check
+#END_HIGHLIGHT
+
+two:
+  name: MyString
+  address: MyText
+  email: MyString
+  pay_type: MyString

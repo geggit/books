@@ -32,6 +32,7 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
+<part id="3"/>
 </presentation>
 </folder>
 </info>
@@ -39,8 +40,11 @@
 <editor id="com.aptana.ide.editors.CSSEditor" name="scaffold.css" partName="scaffold.css" title="scaffold.css" tooltip="C:\RAILS_PROJECTS\depot\public\stylesheets\scaffold.css" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/RAILS_PROJECTS/depot/public/stylesheets/scaffold.css"/>
 </editor>
-<editor activePart="true" focus="true" id="com.aptana.ide.editors.CSSEditor" name="depot.css" partName="depot.css" title="depot.css" tooltip="D:\liba\kode\AgileWebDevRails4thedition\code\depot_e\public\stylesheets\depot.css" workbook="DefaultEditorWorkbook">
+<editor id="com.aptana.ide.editors.CSSEditor" name="depot.css" partName="depot.css" title="depot.css" tooltip="D:\liba\kode\AgileWebDevRails4thedition\code\depot_e\public\stylesheets\depot.css" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_e/public/stylesheets/depot.css"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.ide.editors.CSSEditor" name="depot.css" partName="depot.css" title="depot.css" tooltip="D:\liba\kode\AgileWebDevRails4thedition\code\depot_f\public\stylesheets\depot.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_f/public/stylesheets/depot.css"/>
 </editor>
 </editors>
 <views>
@@ -184,9 +188,11 @@
 <editors>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" uri="file:/C:/RAILS_PROJECTS/depot/public/stylesheets/scaffold.css"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_e/public/stylesheets/depot.css"/>
+<editor factoryID="com.aptana.radrails.MyRadRailsElementFactory" id="com.aptana.radrails.MyRadRailsEditor"/>
 </editors>
 <item historyLabel="scaffold.css" index="0"/>
-<item active="true" historyLabel="depot.css" index="1"/>
+<item historyLabel="depot.css" index="1"/>
+<item active="true" historyLabel="My RadRails" index="2"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -205,6 +211,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" name="depot.css" tooltip="D:\liba\kode\AgileWebDevRails4thedition\code\depot_f\public\stylesheets\depot.css">
+<persistable uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_f/public/stylesheets/depot.css"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.ide.editors.CSSEditor" name="depot.css" tooltip="D:\liba\kode\AgileWebDevRails4thedition\code\depot_e\public\stylesheets\depot.css">
 <persistable uri="file:/D:/liba/kode/AgileWebDevRails4thedition/code/depot_e/public/stylesheets/depot.css"/>
 </file>
