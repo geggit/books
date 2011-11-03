@@ -62,6 +62,14 @@ activesupport (3.0.7, 3.0.6)
     A toolkit of support libraries and Ruby core extensions extracted
     from the Rails framework.
 
+addressable (2.2.6)
+    Author: Bob Aman
+    Rubyforge: http://rubyforge.org/projects/addressable
+    Homepage: http://addressable.rubyforge.org/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    URI Implementation
+
 annotate (2.4.0)
     Authors: Cuong Tran, Alex Chaffee, Marcos Piccinini
     Rubyforge: http://rubyforge.org/projects/annotate
@@ -170,12 +178,13 @@ gravatar_image_tag (1.0.0.pre2)
     A configurable and documented Rails view helper for adding gravatars
     into your Rails application.
 
-heroku (1.20.1)
+heroku (2.8.6, 1.20.1)
     Author: Heroku
     Homepage: http://heroku.com/
-    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+    Installed at (2.8.6): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+                 (1.20.1): C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
 
-    Client library and CLI to deploy Rails apps on Heroku.
+    Client library and CLI to deploy apps on Heroku.
 
 i18n (0.5.0)
     Authors: Sven Fuchs, Joshua Harvey, Matt Aimonetti, Stephan Soller,
@@ -382,6 +391,13 @@ rubygems-update (1.8.5)
 
     RubyGems is a package management framework for Ruby
 
+rubyzip (0.9.4)
+    Author: Thomas Sondergaard
+    Homepage: http://rubyzip.sourceforge.net/
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    rubyzip is a ruby module for reading and writing zip files
+
 rubyzip2 (2.0.1)
     Authors: Postmodern, Thomas Sondergaard
     Homepage: http://github.com/postmodern/rubyzip2
@@ -438,6 +454,13 @@ taps (0.3.23)
     Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
 
     simple database import/export app
+
+term-ansicolor (1.0.6)
+    Author: Florian Frank
+    Homepage: http://flori.github.com/term-ansicolor
+    Installed at: C:/RailsInstaller/Ruby1.8.7/lib/ruby/gems/1.8
+
+    Ruby library that colors strings using ANSI escape sequences
 
 thor (0.14.6)
     Authors: Yehuda Katz, José Valim

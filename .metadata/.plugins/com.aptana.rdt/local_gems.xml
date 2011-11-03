@@ -19,6 +19,12 @@
 		<platform>ruby</platform>
 	</gem>
 	<gem>
+		<name>term-ansicolor</name>
+		<version>1.0.6</version>
+		<description>Ruby library that colors strings using ANSI escape sequences</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
 		<name>rack</name>
 		<version>1.2.2</version>
 		<description>a modular Ruby webserver interface</description>
@@ -223,6 +229,12 @@
 		<platform>ruby</platform>
 	</gem>
 	<gem>
+		<name>heroku</name>
+		<version>2.8.6</version>
+		<description>Client library and CLI to deploy apps on Heroku.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
 		<name>sqlite3-ruby</name>
 		<version>1.3.3</version>
 		<description>This module allows Ruby programs to interface with the SQLite3 database engine (http://www.sqlite.org)</description>
@@ -250,6 +262,12 @@
 		<name>actionmailer</name>
 		<version>3.0.6</version>
 		<description>Email composition, delivery, and receiving framework (part of Rails).</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>addressable</name>
+		<version>2.2.6</version>
+		<description>URI Implementation</description>
 		<platform>ruby</platform>
 	</gem>
 	<gem>
@@ -303,7 +321,7 @@
 	<gem>
 		<name>heroku</name>
 		<version>1.20.1</version>
-		<description>Client library and CLI to deploy Rails apps on Heroku.</description>
+		<description>Client library and CLI to deploy apps on Heroku.</description>
 		<platform>ruby</platform>
 	</gem>
 	<gem>
@@ -316,6 +334,12 @@
 		<name>rake</name>
 		<version>0.8.7</version>
 		<description>Ruby based make-like utility.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>rubyzip</name>
+		<version>0.9.4</version>
+		<description>rubyzip is a ruby module for reading and writing zip files</description>
 		<platform>ruby</platform>
 	</gem>
 	<gem>
@@ -433,15 +457,15 @@
 		<platform>ruby</platform>
 	</gem>
 	<gem>
-		<name>abstract</name>
-		<version>1.0.0</version>
-		<description>a library which enable you to define abstract method in Ruby</description>
-		<platform>ruby</platform>
-	</gem>
-	<gem>
 		<name>rest-client</name>
 		<version>1.6.1</version>
 		<description>Simple REST client for Ruby, inspired by microframework syntax for specifying actions.</description>
+		<platform>ruby</platform>
+	</gem>
+	<gem>
+		<name>abstract</name>
+		<version>1.0.0</version>
+		<description>a library which enable you to define abstract method in Ruby</description>
 		<platform>ruby</platform>
 	</gem>
 	<gem>
