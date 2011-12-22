@@ -1,10 +1,18 @@
+#---
+# Excerpted from "Agile Web Development with Rails, 4rd Ed.",
+# published by The Pragmatic Bookshelf.
+# Copyrights apply to this code. It may not be used to create training material, 
+# courses, books, articles, and the like. Contact us if you are in doubt.
+# We make no guarantees that this code is fit for any purpose. 
+# Visit http://www.pragmaticprogrammer.com/titles/rails4 for more book information.
+#---
 class OrdersController < ApplicationController
-
+    skip_before_filter :authorize, :only => [:new, :create]
   # GET /orders
   # GET /orders.xml
   def index
     @orders = Order.paginate :page=>params[:page], :order=>'created_at desc',
-      :per_page => 15
+      :per_page => 10
 
     respond_to do |format|
       format.html # index.html.erb
@@ -31,7 +39,6 @@ class OrdersController < ApplicationController
       redirect_to store_url, :notice => "Your cart is empty"
       return
     end
-
     @order = Order.new
 
     respond_to do |format|
@@ -45,7 +52,6 @@ class OrdersController < ApplicationController
     @order = Order.find(params[:id])
   end
 
-
   # POST /orders
   # POST /orders.xml
   def create
@@ -58,7 +64,7 @@ class OrdersController < ApplicationController
         session[:cart_id] = nil
         Notifier.order_received(@order).deliver
         format.html { redirect_to(store_url, :notice => 
-          'Thank you for your order.') }
+          I18n.t('.thanks')) }
         format.xml  { render :xml => @order, :status => :created,
           :location => @order }
       else
